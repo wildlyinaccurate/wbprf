@@ -4,11 +4,12 @@
 - Provide reference implementations for common tools
   - Output as WebPageTest script
   - Output as Puppeteer code
-
-## Supported automation
-
-- Navigation
-- Arbitrary JS execution
+- Support enough "commands" to perform common tasks
+  - Navigation
+  - Trigger click/input/submit events
+  - Execute arbitrary JS
+  - Resize the viewport
+  - Apply throttling
 
 ## Run the sample
 
